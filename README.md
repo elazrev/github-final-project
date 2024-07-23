@@ -26,4 +26,4 @@ Please make sure to update tests as appropriate.
 ## License
 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-_© 2023 XYZ, Inc._
+_© 2022 XYZ, Inc._
