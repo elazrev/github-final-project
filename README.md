@@ -4,7 +4,7 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## Input:
 
-```python
+```text
    p, principal amount
    t, time period in years
    r, annual rate of interest
@@ -12,7 +12,7 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## output:
 
-```bash
+```text
    simple interest = p*t*r
 ```
 
